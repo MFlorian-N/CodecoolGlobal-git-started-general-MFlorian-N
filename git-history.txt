@@ -1,0 +1,3 @@
+Rename data/lorem.txt to data/lorem_ipsum.txt, 
+3 sentences of "Lorem Ipsum"
+
