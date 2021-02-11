@@ -1,0 +1,4 @@
+#you can ignore a folder by putting "/" and a specific file in the folder by putting "*" .
+
+temp/  
+*.tmp   
